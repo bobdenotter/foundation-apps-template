@@ -3,7 +3,7 @@
 Getting up and running: 
 
 ```
-git clone git@github.com:zurb/foundation-apps-template.git [projectname]
+git clone git@github.com:bobdenotter/foundation-apps-template.git [projectname]
 
 cd [projectname]
 bower install --save
