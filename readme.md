@@ -9,7 +9,7 @@ cd [projectname]
 bower install --save
 npm install --save-dev
 
-gulp
+gulp watch
 ```
 
 --
